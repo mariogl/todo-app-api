@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Hacer mi primer stream",
+      "date": "02/10/2023",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "name": "Comprarme unos focos",
+      "date": "18/10/2023",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Quitar el gotelé",
+      "date": "02/11/2023",
+      "isDone": false
+    }
+  ]
+}
